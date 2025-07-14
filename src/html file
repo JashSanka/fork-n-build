@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Merch Store In India | TheNerdz.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" media="screen and (max-width:1170px)" href="responsive.css">
+</head>
+
+<body>
+    <nav id="navbar">
+        <div id="logo">
+            <img src="assets/logo-removebg-preview.png" alt="TheNerdz.com">
+            <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai|Bree+Serif&display=swap" rel="stylesheet">
+        </div>
+        <ul>
+            <!-- emmet abbreviation used li.item{<a></a>}*5 -->
+            <li class="item"><a href="#home">Home</a></li>
+            <li class="item"><a href="#services-container">Products</a></li>
+            <li class="item"><a href="#client-section"> Our Clients</a></li>
+            <li class="item"><a href="#contact">Contact Us</a></li>
+
+        </ul>
+    </nav>
+    <section id="home">
+        <h1 class="h-primary">Welcome To The Nerdz</h1>
+        <p>India's one and only premium merch store </p>
+        <p>Buy Premium Merchandise At Affordable Rates</p>
+        <button class="btn">Order Now</button>
+    </section>
+    
+    <section id="services-container">
+        <h1 class="h-primary center">Our Products</h1>
+        <div id="services">
+            <div class="box">
+                <img src="assets/tees-removebg-preview.png" alt="">
+                <h2 class="h-secondary">T-shirts</h2>
+                <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non mollitia laudantium,
+                    neque voluptatibus blanditiis aperiam totam eius odit aspernatur dolores in expedita officia, fugiat
+                    veniam id soluta officiis minus Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem iusto quia magni ratione, voluptatem illo at est alias? Sed hic porro totam corporis!</p>
+                    <div class="btnc"><button class="new">Shop Now</button></div>
+            </div>
+            <div class="box">
+                <img src="assets/figurines-removebg-preview.png" alt="">
+                <h2 class="h-secondary">Action Figures</h2>
+                <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non mollitia laudantium,
+                    neque voluptatibus blanditiis aperiam totam eius odit aspernatur dolores in expedita officia, fugiat
+                    veniam id soluta officiis minus Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius et iste animi quaerat praesentium distinctio. Reprehenderit animi consequuntur sint perspiciatis dolore corporis est?</p>
+                    <div class="btnc"><button class="new">Shop Now</button></div>
+            </div>
+            <div class="box">
+                <img src="assets/collectibles-removebg-preview.png" alt="">
+                <h2 class="h-secondary">Collectibles</h2>
+                <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non mollitia laudantium,
+                    neque voluptatibus blanditiis aperiam totam eius odit aspernatur dolores in expedita officia, fugiat
+                    veniam id soluta officiis minus Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, expedita ad ullam sapiente sint quia iure voluptatem non corporis aperiam, consequatur vel reprehenderit.</p>
+                    <div class="btnc"><button class="new">Shop Now</button></div>
+            </div>
+
+        </div>
+
+    </section>
+    
+    <section id="client-section">
+        <h1 class="h-primary center">Our Clients</h1>
+        
+            <div id="clients">
+                <div class="client-items">
+                    <img src="assets/bewakoof-removebg-preview.png" alt="Our Client">
+                </div>
+                <div class="client-items">
+                    <img src="assets/myntra-removebg-preview.png" alt="Our Client">
+                </div>
+                <div class="client-items">
+                    <img src="assets/ajio.png" alt="Our Client">
+                </div>
+                <div class="client-items">
+                    <img src="assets/Hamleys.png" alt="Our Client">
+                </div>
+            </div>
+
+    </section> 
+    
+    <section id="contact">
+        <h1 class="h-primary center">Contact Us</h1>
+        <div id="contactbox">
+            <form action="">
+                <div class="formgroup">
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" placeholder="Enter Your Name">
+                </div>
+                <div class="formgroup">
+                    <label for="email">Email:</label>
+                    <input type="email" name="name" id="email" placeholder="Enter Your Email">
+                </div>
+                <div class="formgroup">
+                    <label for="phone">Phone Number:</label>
+                    <input type="phone" name="name" id="phone" placeholder="Enter Your Phone Number">
+                </div>
+                <div class="formgroup">
+                    <label for="message">Message:</label>
+                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="center">
+            Copyright &copy; www.TheNerdz.com. All rights reserved
+        </div>
+    </footer>
+</body>
+
+</html>
