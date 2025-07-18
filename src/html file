@@ -36,7 +36,7 @@
         <h1 class="h-primary center">Our Products</h1>
         <div id="services">
             <div class="box">
-                <img src="assets/tees-removebg-preview.png" alt="">
+                <img src="assets/tees-removebg-preview.png" alt="" class="Product">
                 <h2 class="h-secondary">T-shirts</h2>
                 <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non mollitia laudantium,
                     neque voluptatibus blanditiis aperiam totam eius odit aspernatur dolores in expedita officia, fugiat
@@ -44,7 +44,7 @@
                     <div class="btnc"><button class="new">Shop Now</button></div>
             </div>
             <div class="box">
-                <img src="assets/figurines-removebg-preview.png" alt="">
+                <img src="assets/figurines-removebg-preview.png" alt="" class="Product">
                 <h2 class="h-secondary">Action Figures</h2>
                 <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non mollitia laudantium,
                     neque voluptatibus blanditiis aperiam totam eius odit aspernatur dolores in expedita officia, fugiat
@@ -52,7 +52,7 @@
                     <div class="btnc"><button class="new">Shop Now</button></div>
             </div>
             <div class="box">
-                <img src="assets/collectibles-removebg-preview.png" alt="">
+                <img src="assets/collectibles-removebg-preview.png" alt="" class="Product">
                 <h2 class="h-secondary">Collectibles</h2>
                 <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non mollitia laudantium,
                     neque voluptatibus blanditiis aperiam totam eius odit aspernatur dolores in expedita officia, fugiat
